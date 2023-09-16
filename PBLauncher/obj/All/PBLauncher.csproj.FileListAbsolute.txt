@@ -1,0 +1,14 @@
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\PBLauncher.exe.config
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\PBLauncher.exe
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\DiscordMessenger.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\launcher_core.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\Newtonsoft.Json.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\All\Newtonsoft.Json.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.MainForm.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.PleaseWait.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.Properties.Resources.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.csproj.CopyComplete
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.exe
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\All\PBLauncher.csprojAssemblyReference.cache

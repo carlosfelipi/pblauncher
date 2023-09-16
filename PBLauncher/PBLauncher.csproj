@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11A5C648-29AB-453E-9ADE-7EB73BD7CE7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PBLauncher</RootNamespace>
+    <AssemblyName>PBLauncher</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PointBlank 27.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'All|AnyCPU'">
+    <OutputPath>bin\All\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PBLauncher.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="launcher_core, Version=2023.214.1911.9, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Launcher_Core\bin\Debug\launcher_core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Banned.cs" />
+    <Compile Include="Connect.cs" />
+    <Compile Include="Instancia.cs" />
+    <Compile Include="Localize\IStrings.cs" />
+    <Compile Include="Localize\LanguageEN.cs" />
+    <Compile Include="Localize\LanguagePTBR.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxForm.Designer.cs">
+      <DependentUpon>MessageBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PleaseWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PleaseWait.Designer.cs">
+      <DependentUpon>PleaseWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PublicUtils.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Utils\Clear.cs" />
+    <Compile Include="Utils\Enum\HostStatus.cs" />
+    <Compile Include="Utils\Logger.cs" />
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxForm.resx">
+      <DependentUpon>MessageBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PleaseWait.resx">
+      <DependentUpon>PleaseWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config_mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_click.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_mouse.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minim.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minim_click.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minim_mouse.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start_mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\started.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updated.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icone1.ico" />
+    <Content Include="icone_combat.ico" />
+    <Content Include="ico_combatglobal.ico" />
+    <Content Include="logo.ico" />
+    <Content Include="PointBlank 27.ico" />
+    <Content Include="Requerid\launcher_core.dll" />
+    <None Include="Resources\Youtube.png" />
+    <None Include="Resources\bg_loading.png" />
+    <None Include="Resources\divFive.png" />
+    <None Include="Resources\PB FIVE LOGO.png" />
+    <None Include="Resources\bg_launcher.png" />
+    <None Include="Resources\fundonew.png" />
+    <None Include="Resources\l_launcher.png" />
+    <None Include="Resources\check_main1.png" />
+    <None Include="Resources\check_main_click1.png" />
+    <None Include="Resources\updater_main_click.png" />
+    <None Include="Resources\updater_main.png" />
+    <None Include="Resources\start_main_click.png" />
+    <None Include="Resources\start_main.png" />
+    <None Include="Resources\icone_site2.png" />
+    <None Include="Resources\icone_cashday.png" />
+    <None Include="Resources\icone_site.png" />
+    <None Include="Resources\icone_facebook.png" />
+    <None Include="Resources\icone_discord.png" />
+    <None Include="Resources\icone_config.png" />
+    <None Include="Resources\logo combat.png" />
+    <None Include="Resources\bg_main_login.png" />
+    <None Include="Resources\bg_main_new_1.png" />
+    <None Include="Resources\bg_main_new.png" />
+    <None Include="Resources\us_.png" />
+    <None Include="Resources\br_.png" />
+    <None Include="Resources\en.png" />
+    <None Include="Resources\br.png" />
+    <None Include="Resources\cashd_rec.png" />
+    <None Include="Resources\cashd_not.gif" />
+    <None Include="Resources\warning.png" />
+    <None Include="Resources\div1.png" />
+    <None Include="Resources\div.png" />
+    <None Include="Resources\bg_1launcher.png" />
+    <None Include="Resources\bg_div.png" />
+    <None Include="Resources\_bg_bg.jpg" />
+    <None Include="Resources\setting_hover_2023.png" />
+    <None Include="Resources\setting_click_2023.png" />
+    <None Include="Resources\setting_2023.png" />
+    <None Include="Resources\register_hover_2023.png" />
+    <None Include="Resources\register_click_2023.png" />
+    <None Include="Resources\register.png" />
+    <None Include="Resources\login_hover_2023.png" />
+    <None Include="Resources\login_click_2023.png" />
+    <None Include="Resources\login_2023.png" />
+    <None Include="Resources\bg_login_2023.png" />
+    <None Include="Resources\start_hover_2023.png" />
+    <None Include="Resources\start_click_2023.png" />
+    <None Include="Resources\start_2023.png" />
+    <None Include="Resources\updater_hover_2023.png" />
+    <None Include="Resources\updater_click_2023.png" />
+    <None Include="Resources\updater_2023.png" />
+    <None Include="Resources\check_hover_2023.png" />
+    <None Include="Resources\check_click_2023.png" />
+    <None Include="Resources\check_2023.png" />
+    <None Include="Resources\minimize_hover_2023.png" />
+    <None Include="Resources\minimize_click_2023.png" />
+    <None Include="Resources\minimize_2023.png" />
+    <None Include="Resources\close_hover_2023.png" />
+    <None Include="Resources\close_click_2023.png" />
+    <None Include="Resources\close_2023.png" />
+    <None Include="Resources\logo_2023.png" />
+    <None Include="Resources\bg_2023.png" />
+    <None Include="Resources\new_bglogin.png" />
+    <None Include="Resources\enter_hover.png" />
+    <None Include="Resources\enter_default.png" />
+    <None Include="Resources\enter_click.png" />
+    <None Include="Resources\please_wait_bg.png" />
+    <None Include="Resources\bg_new_v3.png" />
+    <None Include="Resources\logo_gif.gif" />
+    <None Include="Resources\update_checkerd.png" />
+    <None Include="Resources\update_hover.png" />
+    <None Include="Resources\update_default.png" />
+    <None Include="Resources\update_click_new.png" />
+    <None Include="Resources\start_hover.png" />
+    <None Include="Resources\start_click_new.png" />
+    <None Include="Resources\start_default.png" />
+    <None Include="Resources\start_checked.png" />
+    <None Include="Resources\checked_.png" />
+    <None Include="Resources\checked1.png" />
+    <None Include="Resources\check_hover.png" />
+    <None Include="Resources\check_default.png" />
+    <None Include="Resources\check_click1.png" />
+    <None Include="Resources\facebook_hover.png" />
+    <None Include="Resources\facebook_default.png" />
+    <None Include="Resources\facebook_click.png" />
+    <None Include="Resources\discord_hover.png" />
+    <None Include="Resources\discord_default.png" />
+    <None Include="Resources\discord_click.png" />
+    <None Include="Resources\info_hover.png" />
+    <None Include="Resources\info_default.png" />
+    <None Include="Resources\info_click.png" />
+    <None Include="Resources\success.png" />
+    <None Include="Resources\dailyCash_hover.png" />
+    <None Include="Resources\dailyCash_default.png" />
+    <None Include="Resources\dailyCash_click.png" />
+    <None Include="Resources\minimize_hover.png" />
+    <None Include="Resources\minimize_default.png" />
+    <None Include="Resources\minimize_click.png" />
+    <None Include="Resources\bg_v3.24.png" />
+    <None Include="Resources\bg_v3.png" />
+    <None Include="Resources\close_hover.png" />
+    <None Include="Resources\close_default.png" />
+    <None Include="Resources\close_click.png" />
+    <None Include="Resources\close_check.png" />
+    <None Include="Resources\register_check.png" />
+    <None Include="Resources\register_click.png" />
+    <None Include="Resources\register_default.png" />
+    <None Include="Resources\register_hover.png" />
+    <None Include="Resources\login_check.png" />
+    <None Include="Resources\login_click.png" />
+    <None Include="Resources\login_default.png" />
+    <None Include="Resources\login_hover.png" />
+    <None Include="Resources\bg_login.png" />
+    <None Include="Resources\rank_54.gif" />
+    <None Include="Resources\rank_53.gif" />
+    <None Include="Resources\rank_52.gif" />
+    <None Include="Resources\rank_51.gif" />
+    <None Include="Resources\rank_50.gif" />
+    <None Include="Resources\rank_49.gif" />
+    <None Include="Resources\rank_48.gif" />
+    <None Include="Resources\rank_47.gif" />
+    <None Include="Resources\rank_46.gif" />
+    <None Include="Resources\rank_45.gif" />
+    <None Include="Resources\rank_44.gif" />
+    <None Include="Resources\rank_43.gif" />
+    <None Include="Resources\rank_42.gif" />
+    <None Include="Resources\rank_41.gif" />
+    <None Include="Resources\rank_40.gif" />
+    <None Include="Resources\rank_39.gif" />
+    <None Include="Resources\rank_38.gif" />
+    <None Include="Resources\rank_37.gif" />
+    <None Include="Resources\rank_36.gif" />
+    <None Include="Resources\rank_35.gif" />
+    <None Include="Resources\rank_34.gif" />
+    <None Include="Resources\rank_33.gif" />
+    <None Include="Resources\rank_32.gif" />
+    <None Include="Resources\rank_31.gif" />
+    <None Include="Resources\rank_30.gif" />
+    <None Include="Resources\rank_29.gif" />
+    <None Include="Resources\rank_28.gif" />
+    <None Include="Resources\rank_27.gif" />
+    <None Include="Resources\rank_26.gif" />
+    <None Include="Resources\rank_25.gif" />
+    <None Include="Resources\rank_24.gif" />
+    <None Include="Resources\rank_23.gif" />
+    <None Include="Resources\rank_22.gif" />
+    <None Include="Resources\rank_21.gif" />
+    <None Include="Resources\rank_20.gif" />
+    <None Include="Resources\rank_19.gif" />
+    <None Include="Resources\rank_18.gif" />
+    <None Include="Resources\rank_17.gif" />
+    <None Include="Resources\rank_16.gif" />
+    <None Include="Resources\rank_15.gif" />
+    <None Include="Resources\rank_14.gif" />
+    <None Include="Resources\rank_13.gif" />
+    <None Include="Resources\rank_12.gif" />
+    <None Include="Resources\rank_11.gif" />
+    <None Include="Resources\rank_10.gif" />
+    <None Include="Resources\rank_9.gif" />
+    <None Include="Resources\rank_8.gif" />
+    <None Include="Resources\rank_7.gif" />
+    <None Include="Resources\rank_6.gif" />
+    <None Include="Resources\rank_5.gif" />
+    <None Include="Resources\rank_4.gif" />
+    <None Include="Resources\rank_3.gif" />
+    <None Include="Resources\rank_2.gif" />
+    <None Include="Resources\rank_1.gif" />
+    <None Include="Resources\rank_0.gif" />
+    <None Include="Resources\bg.jpg" />
+    <None Include="Resources\loading launcher.png" />
+    <None Include="Resources\lkadmoiqn.png" />
+    <None Include="Resources\Gz62TrHnJM.jpg" />
+    <None Include="Resources\icons8_Login_64px.png" />
+    <None Include="Resources\icons8_password_40px.png" />
+    <None Include="Resources\icons8_user_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

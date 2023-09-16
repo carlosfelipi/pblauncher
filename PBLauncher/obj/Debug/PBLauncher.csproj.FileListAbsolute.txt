@@ -1,0 +1,252 @@
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.exe.config
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.exe
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.pdb
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\launcher_core.dll
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.exe
+D:\CRIAÇÃO GERAL SERVIDOR\DEVELOPEMENT PB SERVER\V42 FULL SERVER TOP + SOUCE\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csprojAssemblyReference.cache
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\loading\Desktop\Launcher\pblauncher-elite-master\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Loading\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\PB\V42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\Source+LauncherProtection\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\Outros\ServerV42\Launcher\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PBLauncher - Used\pblauncher-colgar\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PBLauncher - Used\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csprojAssemblyReference.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.LoginForm.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Buffers.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Memory.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.dll
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Buffers.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Memory.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.xml
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Server\source\repos\CombatGuardian\PBLauncher\PBLauncher\bin\Debug\Guna.UI.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Guna.UI.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Buffers.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Memory.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.dll
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Buffers.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Memory.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.xml
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.LoginForm.resources
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MessageBoxForm.resources
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\C# - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Guna.UI.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\launcher_core.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Buffers.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Memory.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.dll
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Buffers.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Memory.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Text.Json.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\bin\Debug\System.ValueTuple.xml
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.LoginForm.resources
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MainForm.resources
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.MessageBoxForm.resources
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.PleaseWait.resources
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+C:\Users\Server\Desktop\PB - Combat Global\Launcher\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb

@@ -1,0 +1,3 @@
+Atualizado sistema de VIP [player_vip_expire]
+
+Corrigido sistema VIP fica com varios numeros quando nao existe na table [player_vip_expire]
